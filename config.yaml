@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    cristiano:
+      email: cristianopessoa@gmail.com
+      name: Cristiano Pessoa
+      password: cp123 # To be replaced with hashed password
+    andre:
+      email: andrepadua@gmail.com
+      name: Andre Padua
+      password: ap123 # To be replaced with hashed password
+cookie:
+  expiry_days: 0
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - andrepadua@gmail.com
